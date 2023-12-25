@@ -1,4 +1,4 @@
-### Welcome to my Github profile
+### Welcome to my GitHub profile
 # Hi, I'm Durgesh Gowda 👋
 
 
@@ -15,18 +15,18 @@
 - Member of Google Developer Student Club (GDSC), Microsoft Learn Student Ambassadors (MLSA), Science Club, and CodeChef Community.
 
 ## Experience:
-### Project intern at Indian Space Research Organisation (ISRO)
+### Project intern at the Indian Space Research Organisation (ISRO)
 
 **Project Topic:** Satellite data processing, retrieval, and visualization using NLP and AI techniques.
 
-- Developed a cross platform (Windows, Mac or Linux) application for retrieving and visulalizing Real-time data.
-- Worked with ISRO's servers to retrieve Real-time Data.
-- Integrated ISRO's servers with Command-based (voice or text) Retrieval Systems to automate workflow (Real-time Retrieving and Plotting).
-- Real-time Voice transcription was done using **OpenAI's Whisper**.
-- Fine tuned **RoBERTa** for satellite instrument and domain NER using data augmentation, **NLP assisted annotation** and machine learning approaches.
-- Built a semantic search engine leveraging **Whoosh** and **SpaCy** for a flexible data retrieval system.
+- Developed a cross-platform (Windows, Mac, or Linux) application for retrieving and visualizing real-time data.
+- Worked with ISRO's servers to retrieve real-time data.
+- Integrated ISRO's servers with command-based (voice or text) retrieval systems to automate workflow (real-time retrieval and plotting).
+- Real-time voice transcription was done using **OpenAI's Whisper**.
+- Fine-tuned **RoBERTa** for satellite instruments and domain NER using data augmentation, **NLP-assisted annotation**, and machine learning approaches.
+- Built a semantic search engine leveraging **Whoosh** and **SpaCy** for a flexible data retrieval system.
 - Built and incorporated a real-time data visualization tool with the NLP system and a robust application for automated data processing pipelines, visualizations, and GUI assisted by OpenAI's Whisper for seamless speech-to-text.
-- Deployed in the mission control center improving data retrieval and visualization tasks by up to 8x.
+- Deployed in the mission control center, improving data retrieval and visualization tasks by up to 8x.
 
 ## LeetCode Stats
 
