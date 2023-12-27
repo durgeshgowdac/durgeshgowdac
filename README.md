@@ -51,14 +51,15 @@
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=durgeshgowdac&theme=dark)](https://leetcode.com/durgeshgowdac)
 -->
 
-<a href="https://leetcode.com/durgeshgowdac/" target="blank">
-  <img src="https://leetcard.jacoblin.cool/durgeshgowdac?theme=light&font=DM%20Sans&ext=heatmap" alt="LeetCode Stats">
-</a>
-
-<!--Badges-->
-<a href="https://leetcode.com/durgeshgowdac/" target="blank">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=durgeshgowdac" alt="LeetCode Badges">
-</a>
+<div>
+  <a href="https://leetcode.com/durgeshgowdac/" target="blank">
+    <img src="https://leetcard.jacoblin.cool/durgeshgowdac?theme=light&font=DM%20Sans&ext=heatmap" alt="LeetCode Stats">
+  </a>
+  
+  <a href="https://leetcode.com/durgeshgowdac/" target="blank">
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=durgeshgowdac" alt="LeetCode Badges">
+  </a>
+</div>
 
 </br>
 
