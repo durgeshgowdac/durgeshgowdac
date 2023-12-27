@@ -1,7 +1,7 @@
 ### Welcome to my GitHub profile
 # Hi, I'm Durgesh Gowda 👋
 
-<a href="https://github.com/durgeshgowdac" target="_blank">
+<a href="https://github.com/durgeshgowdac" target="blank">
   <img align="right" alt="profile views" src="https://komarev.com/ghpvc/?username=your-durgeshgowdac" />
 </a>
 
@@ -33,30 +33,50 @@
 
 ## LeetCode Stats
 
-[![LeetCode user durgeshgowdac](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fdurgeshgowdac&logo=leetcode&logoColor=yellow)](https://leetcode.com/durgeshgowdac/)
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=durgeshgowdac&theme=dark)](https://leetcode.com/durgeshgowdac)
+<div align="left">
+  <a href="(https://leetcode.com/durgeshgowdac/">
+    <img src="https://img.shields.io/badge/dynamic/json?style=flat&color=%23ffa116&label=leetcode.com&suffix=%20problems%20solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdurgeshgowdac&logo=leetcode&logoColor=yellow&labelColor=%23111827&cacheSeconds=604800" alt="solved"
+  </a>
+  </br>
+  <a href="(https://leetcode.com/durgeshgowdac/">
+    <img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Contest%20Rating&query=ratingQuantile&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fdurgeshgowdac&logo=leetcode&logoColor=yellow" alt="rating & quartile"
+  </a>
+  </br>
+  <a href="(https://leetcode.com/durgeshgowdac/">
+    <img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fdurgeshgowdac&logo=leetcode&logoColor=yellow" alt="ranking"
+  </a>
+</div>
 
 <!--Rating
-[![LeetCode user durgeshgowdac]()](https://leetcode.com/durgeshgowdac/)
-
-<a href="https://leetcode.com/durgeshgowdac/" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/durgeshgowdac?theme=light&font=DM%20Sans&ext=heatmap" alt="LeetCode Stats">
-</a>
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=durgeshgowdac&theme=dark)](https://leetcode.com/durgeshgowdac)
 -->
 
+<a href="https://leetcode.com/durgeshgowdac/" target="blank">
+  <img src="https://leetcard.jacoblin.cool/durgeshgowdac?theme=light&font=DM%20Sans&ext=heatmap" alt="LeetCode Stats">
+</a>
+
 <!--Badges-->
-<a href="https://leetcode.com/durgeshgowdac/" target="_blank">
+<a href="https://leetcode.com/durgeshgowdac/" target="blank">
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=durgeshgowdac" alt="LeetCode Badges">
 </a>
 
-<h3 align="left">Connect with me:</h3>
+</br>
+
+## GitHub Gists:
+
 <p align="left">
-<a href="https://twitter.com/durgeshgowdac" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="durgeshgowdac" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/durgeshgowdac" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="durgeshgowdac" height="30" width="40" /></a>
-<a href="https://kaggle.com/durgeshgowdac" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="durgeshgowdac" height="30" width="40" /></a>
-<a href="https://instagram.com/durgeshgowdac" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="durgeshgowdac" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/durgeshgowdac" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="durgeshgowdac" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/durgeshgowdac" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="durgeshgowdac" height="30" width="40" /></a>
+  <a href="https://gist.github.com/durgeshgowdac/edb58670bd65ef45742e9ee522d5ea99" target="blank">
+    <img src="https://gists-readme.yizack.com/api/pin?user=durgeshgowdac&id=edb58670bd65ef45742e9ee522d5ea99&owner=true" alt="gists" />
+  </a>
+</p>
+
+## Connect with me:
+<p align="left">
+  <a href="https://twitter.com/durgeshgowdac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="durgeshgowdac" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/durgeshgowdac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="durgeshgowdac" height="30" width="40" /></a>
+  <a href="https://kaggle.com/durgeshgowdac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="durgeshgowdac" height="30" width="40" /></a>
+  <a href="https://instagram.com/durgeshgowdac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="durgeshgowdac" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/durgeshgowdac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="durgeshgowdac" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/durgeshgowdac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="durgeshgowdac" height="30" width="40" /></a>
 </p>
 
