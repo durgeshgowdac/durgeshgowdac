@@ -14,7 +14,8 @@
 ## Education:
 ### B.Tech - Presidency University (2019 - 2023)
 - Computer Engineering (Data Science)
-- Grade: 9.19
+- CGPA (10 points): 9.19
+- GPA  (4 points) : 3.67
 - Member of Google Developer Student Club (GDSC), Microsoft Learn Student Ambassadors (MLSA), Science Club, and CodeChef Community.
 
 ## Experience:
