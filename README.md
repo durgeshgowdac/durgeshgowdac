@@ -1,15 +1,17 @@
 ### Welcome to my GitHub profile
 # Hi, I'm Durgesh Gowda 👋
 
+<!---
 <a href="https://github.com/durgeshgowdac" target="blank">
   <img align="right" alt="profile views" src="https://komarev.com/ghpvc/?username=your-durgeshgowdac" />
 </a>
+-->
 
 [![Github](https://img.shields.io/badge/-Github-100000?&logo=Github&logoColor=white)](https://github.com/durgeshgowdac)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/durgeshgowdac/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:durgeshcgowda@gmail.com)
 [![LeetCode](https://img.shields.io/badge/-Leetcode-fb8628?&logo=Leetcode&logoColor=black)](https://leetcode.com/durgeshgowdac/)
-[![HyperSkill](https://img.shields.io/badge/Hyperskill-100000?logo=jetbrains&logoColor=white)](https://hyperskill.org/profile/522832266)
+[![HyperSkill](https://img.shields.io/badge/Hyperskill-100000?logo=jetbrains&logoColor=8C5AFF)](https://hyperskill.org/profile/522832266)
 
 ## Education:
 ### B.Tech - Presidency University (2019 - 2023)
