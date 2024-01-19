@@ -34,6 +34,18 @@
 - Built and incorporated a real-time data visualization tool with the NLP system and a robust application for automated data processing pipelines, visualizations, and GUI assisted by OpenAI's Whisper for seamless speech-to-text.
 - Deployed in the mission control center, improving data retrieval and visualization tasks by up to 8x.
 
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/durgeshgowdac/durgeshgowdac/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
 ## LeetCode Stats
 
 <div align="left">
