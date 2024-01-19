@@ -13,14 +13,14 @@
 [![LeetCode](https://img.shields.io/badge/-Leetcode-fb8628?&logo=Leetcode&logoColor=black)](https://leetcode.com/durgeshgowdac/)
 [![HyperSkill](https://img.shields.io/badge/Hyperskill-100000?logo=jetbrains&logoColor=8C5AFF)](https://hyperskill.org/profile/522832266)
 
-## Education:
+## > Education:
 ### B.Tech - Presidency University (2019 - 2023)
 - Computer Engineering (Data Science)
 - CGPA (10 points): 9.19
 - GPA  (4 points) : 3.67
 - Member of Google Developer Student Club (GDSC), Microsoft Learn Student Ambassadors (MLSA), Science Club, and CodeChef Community.
 
-## Experience:
+## > Experience:
 ### Project intern at the Indian Space Research Organisation (ISRO)
 
 **Project Topic:** Satellite data processing, retrieval, and visualization using NLP and AI techniques.
@@ -34,33 +34,51 @@
 - Built and incorporated a real-time data visualization tool with the NLP system and a robust application for automated data processing pipelines, visualizations, and GUI assisted by OpenAI's Whisper for seamless speech-to-text.
 - Deployed in the mission control center, improving data retrieval and visualization tasks by up to 8x.
 
-<hr/>
+## > GitHub Contributions
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=durgeshgowdac&theme=react-dark)](https://github.com/durgeshgowdac/)
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/durgeshgowdac/durgeshgowdac/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
 </div>
 
-<hr/>
+</br>
 
-## LeetCode Stats
+## > GitHub Gists:
 
+<p align="left">
+  <a href="https://gist.github.com/durgeshgowdac/edb58670bd65ef45742e9ee522d5ea99" target="blank">
+    <img src="https://gists-readme.yizack.com/api/pin?user=durgeshgowdac&id=edb58670bd65ef45742e9ee522d5ea99&owner=true&theme=dark" alt="gists" />
+  </a>
+</p>
+
+## > LeetCode Stats
+
+<!--
 <div align="left">
   <a href="(https://leetcode.com/durgeshgowdac/">
     <img src="https://img.shields.io/badge/dynamic/json?style=flat&color=%23ffa116&label=leetcode.com&suffix=%20problems%20solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdurgeshgowdac&logo=leetcode&logoColor=yellow&labelColor=%23111827&cacheSeconds=604800" alt="solved"
   </a>
-  </br>
+  
   <a href="(https://leetcode.com/durgeshgowdac/">
     <img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Contest%20Rating&query=ratingQuantile&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fdurgeshgowdac&logo=leetcode&logoColor=yellow" alt="rating & quartile"
   </a>
-  </br>
+
   <a href="(https://leetcode.com/durgeshgowdac/">
     <img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fdurgeshgowdac&logo=leetcode&logoColor=yellow" alt="ranking"
   </a>
 </div>
+-->
+
+<div style="text-align: center;">
+
+  [![solved](https://img.shields.io/badge/dynamic/json?style=flat&color=%23ffa116&label=leetcode.com&suffix=%20problems%20solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdurgeshgowdac&logo=leetcode&logoColor=yellow&labelColor=%23111827&cacheSeconds=604800)](https://leetcode.com/durgeshgowdac/)
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  [![rating & quartile](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Contest%20Rating&query=ratingQuantile&url=https%3A%2F%2Fbadge.xyli.tech%2Fapi%2Fusers%2Fdurgeshgowdac&logo=leetcode&logoColor=yellow)](https://leetcode.com/durgeshgowdac/)
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  [![ranking](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fbadge.xyli.tech%2Fapi%2Fusers%2Fdurgeshgowdac&logo=leetcode&logoColor=yellow)](https://leetcode.com/durgeshgowdac/)
+
+</div>
+
 
 <!--Rating
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=durgeshgowdac&theme=dark)](https://leetcode.com/durgeshgowdac)
@@ -77,14 +95,6 @@
 </div>
 
 </br>
-
-## GitHub Gists:
-
-<p align="left">
-  <a href="https://gist.github.com/durgeshgowdac/edb58670bd65ef45742e9ee522d5ea99" target="blank">
-    <img src="https://gists-readme.yizack.com/api/pin?user=durgeshgowdac&id=edb58670bd65ef45742e9ee522d5ea99&owner=true" alt="gists" />
-  </a>
-</p>
 
 ## Connect with me:
 <p align="left">
