@@ -71,7 +71,7 @@
 
 <div style="text-align: center;">
 
-  [![solved](https://img.shields.io/badge/dynamic/json?style=flat&color=%23ffa116&label=leetcode.com&suffix=%20problems%20solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdurgeshgowdac&logo=leetcode&logoColor=yellow&labelColor=%23111827&cacheSeconds=604800)](https://leetcode.com/durgeshgowdac/)
+  [![LeetCode user durgeshgowdac](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdurgeshgowdac&logo=leetcode&logoColor=yellow)](https://leetcode.com/durgeshgowdac/)(https://leetcode.com/durgeshgowdac/)
   &nbsp;&nbsp;&nbsp;&nbsp;
   [![rating & quartile](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Contest%20Rating&query=ratingQuantile&url=https%3A%2F%2Fbadge.xyli.tech%2Fapi%2Fusers%2Fdurgeshgowdac&logo=leetcode&logoColor=yellow)](https://leetcode.com/durgeshgowdac/)
   &nbsp;&nbsp;&nbsp;&nbsp;
