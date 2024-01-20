@@ -7,11 +7,18 @@
 </a>
 -->
 
-[![Github](https://img.shields.io/badge/-Github-100000?&logo=Github&logoColor=white)](https://github.com/durgeshgowdac)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/durgeshgowdac/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:durgeshcgowda@gmail.com)
-[![LeetCode](https://img.shields.io/badge/-Leetcode-fb8628?&logo=Leetcode&logoColor=black)](https://leetcode.com/durgeshgowdac/)
-[![HyperSkill](https://img.shields.io/badge/Hyperskill-100000?logo=jetbrains&logoColor=8C5AFF)](https://hyperskill.org/profile/522832266)
+<div style="text-align: center;">
+
+  [![Github](https://img.shields.io/badge/-Github-100000?&logo=Github&logoColor=white)](https://github.com/durgeshgowdac)
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/durgeshgowdac/)
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:durgeshcgowda@gmail.com)
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  [![LeetCode](https://img.shields.io/badge/-Leetcode-fb8628?&logo=Leetcode&logoColor=black)](https://leetcode.com/durgeshgowdac/)
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  [![HyperSkill](https://img.shields.io/badge/Hyperskill-100000?logo=jetbrains&logoColor=ffffff)](https://hyperskill.org/profile/522832266)
+</div>
 
 ## > Education:
 ### B.Tech - Presidency University (2019 - 2023)
