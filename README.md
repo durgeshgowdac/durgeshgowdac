@@ -93,11 +93,15 @@
 
 <div>
   <a href="https://leetcode.com/durgeshgowdac/" target="blank">
-    <img src="https://leetcard.jacoblin.cool/durgeshgowdac?theme=light&font=DM%20Sans&ext=heatmap" alt="LeetCode Stats">
+    <img src="https://leetcard.jacoblin.cool/durgeshgowdac?theme=dark&font=Anek%20Sans&ext=heatmap" alt="LeetCode Stats">
   </a>
   
   <a href="https://leetcode.com/durgeshgowdac/" target="blank">
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=durgeshgowdac" alt="LeetCode Badges">
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=durgeshgowdac&theme=dark&filter=daily" alt="LeetCode Daily">
+  </a>
+
+  <a href="https://leetcode.com/durgeshgowdac/" target="blank">
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=durgeshgowdac&theme=dark&filter=comp" alt="LeetCode Comp">
   </a>
 </div>
 
@@ -110,6 +114,6 @@
   <a href="https://kaggle.com/durgeshgowdac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="durgeshgowdac" height="30" width="40" /></a>
   <a href="https://instagram.com/durgeshgowdac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="durgeshgowdac" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/durgeshgowdac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="durgeshgowdac" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/durgeshgowdac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="durgeshgowdac" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/durgeshgowdac" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="durgeshgowdac" height="30" width="40" /></a>
 </p>
 
