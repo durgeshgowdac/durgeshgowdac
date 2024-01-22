@@ -17,15 +17,15 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   [![LeetCode](https://img.shields.io/badge/-Leetcode-fb8628?&logo=Leetcode&logoColor=black)](https://leetcode.com/durgeshgowdac/)
   &nbsp;&nbsp;&nbsp;&nbsp;
-  [![HyperSkill](https://img.shields.io/badge/Hyperskill-100000?logo=jetbrains&logoColor=ffffff)](https://hyperskill.org/profile/522832266)
+  [![HyperSkill](https://img.shields.io/badge/Hyperskill-black?logo=hyperskill&logoColor=5d72e9)](https://hyperskill.org/profile/522832266)
 </div>
 
 ## > Education:
 ### B.Tech - Presidency University (2019 - 2023)
 - Computer Engineering (Data Science)
-- CGPA (10 points): 9.19
-- GPA  (4 points) : 3.67
-- Member of Google Developer Student Club (GDSC), Microsoft Learn Student Ambassadors (MLSA), Science Club, and CodeChef Community.
+- CGPA (10 points): **9.19**
+- GPA  (4 points) : **3.67**
+- Was part of Google Developer Student Club (GDSC), Microsoft Learn Student Ambassadors (MLSA), Science Club, and CodeChef Community.
 
 ## > Experience:
 ### Project intern at the Indian Space Research Organisation (ISRO)
@@ -89,20 +89,25 @@
 
 <!--Rating
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=durgeshgowdac&theme=dark)](https://leetcode.com/durgeshgowdac)
+
+<a href="https://leetcode.com/durgeshgowdac/" target="blank">
+  <img src="https://leetcard.jacoblin.cool/durgeshgowdac?theme=dark&font=Anek%20Sans&ext=heatmap" alt="LeetCode Stats">
+</a>
 -->
 
-<div>
+<div align="center">
   <a href="https://leetcode.com/durgeshgowdac/" target="blank">
-    <img src="https://leetcard.jacoblin.cool/durgeshgowdac?theme=dark&font=Anek%20Sans&ext=heatmap" alt="LeetCode Stats">
+    <img src="https://leetcode-stats-six.vercel.app/?username=durgeshgowdac&theme=dark" alt="LeetCode Stats">
+  </a>
+  </br>
+  <a href="https://leetcode.com/durgeshgowdac/" target="blank">
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=durgeshgowdac&theme=dark&filter=comp" alt="LeetCode Comp">
   </a>
   
   <a href="https://leetcode.com/durgeshgowdac/" target="blank">
     <img src="https://leetcode-badge-showcase.vercel.app/api?username=durgeshgowdac&theme=dark&filter=daily" alt="LeetCode Daily">
   </a>
 
-  <a href="https://leetcode.com/durgeshgowdac/" target="blank">
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=durgeshgowdac&theme=dark&filter=comp" alt="LeetCode Comp">
-  </a>
 </div>
 
 </br>
