@@ -42,7 +42,7 @@
 - Deployed in the mission control center, improving data retrieval and visualization tasks by up to 8x.
 
 ## > GitHub Contributions
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=durgeshgowdac&theme=react-dark)](https://github.com/durgeshgowdac/)
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=durgeshgowdac&color=3c7dd9&bg_color=0d1117&line=64a1f4&point=bfd6f6)](https://github.com/durgeshgowdac/)
 
 <div align="center">
   <img src="https://github.com/durgeshgowdac/durgeshgowdac/blob/output/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
