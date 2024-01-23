@@ -27,6 +27,8 @@
 - GPA  (4 points) : **3.67**
 - Was part of Google Developer Student Club (GDSC), Microsoft Learn Student Ambassadors (MLSA), Science Club, and CodeChef Community.
 
+<hr>
+
 ## > Experience:
 ### Project intern at the Indian Space Research Organisation (ISRO)
 
@@ -41,20 +43,30 @@
 - Built and incorporated a real-time data visualization tool with the NLP system and a robust application for automated data processing pipelines, visualizations, and GUI assisted by OpenAI's Whisper for seamless speech-to-text.
 - Deployed in the mission control center, improving data retrieval and visualization tasks by up to 8x.
 
-## > GitHub Contributions
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=durgeshgowdac&color=3c7dd9&bg_color=0d1117&line=64a1f4&point=bfd6f6)](https://github.com/durgeshgowdac/)
+<hr>
+
+## > GitHub Contributions:
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only" width="700" alt="3D Contribution Profile">
-  <img src="./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" width="700" alt="3D Contribution Profile">
-  
+  <a href="https://www.githubwrapped.io/durgeshgowdac">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=durgeshgowdac&color=3c7dd9&bg_color=0d1117&line=64a1f4&point=bfd6f6" alt="github activity graph">
+  </a>
   <img src="https://github.com/durgeshgowdac/durgeshgowdac/blob/output/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
   <img src="https://github.com/durgeshgowdac/durgeshgowdac/blob/output/github-snake.svg?color_snake=#00FC58#gh-light-mode-only" alt="Snake animation">
+  </br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durgeshgowdac&theme=city_lights" alt="dark">
+  </br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=durgeshgowdac&theme=city_lights" alt="dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=durgeshgowdac&theme=city_lights&utcOffset=8" alt="dark">
+  </br>
+  <img src="./profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only" width="700" alt="3D Contribution Profile">
+  <img src="./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" width="700" alt="3D Contribution Profile">
+  </br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durgeshgowdac&theme=city_lights" alt="dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=durgeshgowdac&theme=city_lights" alt="dark">
 </div>
 
-
-
-</br>
+<hr>
 
 ## > GitHub Gists:
 
@@ -64,59 +76,80 @@
   </a>
 </p>
 
-## > LeetCode Stats
+<hr>
 
-<!--
-<div align="left">
-  <a href="(https://leetcode.com/durgeshgowdac/">
-    <img src="https://img.shields.io/badge/dynamic/json?style=flat&color=%23ffa116&label=leetcode.com&suffix=%20problems%20solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdurgeshgowdac&logo=leetcode&logoColor=yellow&labelColor=%23111827&cacheSeconds=604800" alt="solved"
-  </a>
-  
-  <a href="(https://leetcode.com/durgeshgowdac/">
-    <img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Contest%20Rating&query=ratingQuantile&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fdurgeshgowdac&logo=leetcode&logoColor=yellow" alt="rating & quartile"
-  </a>
+## > LeetCode Stats:
 
-  <a href="(https://leetcode.com/durgeshgowdac/">
-    <img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fdurgeshgowdac&logo=leetcode&logoColor=yellow" alt="ranking"
-  </a>
-</div>
--->
-
+<!--- Leetcode solved, contest rating, ranking (shield.io) badges-->
 <div style="text-align: center;">
-
+  
   [![LeetCode user durgeshgowdac](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdurgeshgowdac&logo=leetcode&logoColor=yellow)](https://leetcode.com/durgeshgowdac/)
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   [![rating & quartile](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Contest%20Rating&query=ratingQuantile&url=https%3A%2F%2Fbadge.xyli.tech%2Fapi%2Fusers%2Fdurgeshgowdac&logo=leetcode&logoColor=yellow)](https://leetcode.com/durgeshgowdac/)
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   [![ranking](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fbadge.xyli.tech%2Fapi%2Fusers%2Fdurgeshgowdac&logo=leetcode&logoColor=yellow)](https://leetcode.com/durgeshgowdac/)
-
+  
 </div>
-
 
 <!--Rating
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=durgeshgowdac&theme=dark)](https://leetcode.com/durgeshgowdac)
 
 <a href="https://leetcode.com/durgeshgowdac/" target="blank">
-  <img src="https://leetcard.jacoblin.cool/durgeshgowdac?theme=dark&font=Anek%20Sans&ext=heatmap" alt="LeetCode Stats">
+  <img src="https://leetcard.jacoblin.cool/durgeshgowdac?theme=nord&font=DM%20Mono&ext=heatmap&hide=ranking&animation=false" alt="LeetCode Stats">
 </a>
 -->
 
-<div align="center">
+
+<div align="left">
   <a href="https://leetcode.com/durgeshgowdac/" target="blank">
     <img src="https://leetcode-stats-six.vercel.app/?username=durgeshgowdac&theme=dark" alt="LeetCode Stats">
   </a>
-  </br>
-  <a href="https://leetcode.com/durgeshgowdac/" target="blank">
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=durgeshgowdac&theme=dark&filter=comp" alt="LeetCode Comp">
-  </a>
-  
-  <a href="https://leetcode.com/durgeshgowdac/" target="blank">
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=durgeshgowdac&theme=dark&filter=daily" alt="LeetCode Daily">
-  </a>
-
 </div>
 
-</br>
+#### Leetcode Daily Medals
+
+<table>
+  <tr>
+    <th><img src="./leetcode-badges/2023-12.gif" width="70" height="70 alt="December"></th>
+    <th><img src="./leetcode-badges/2023-11.gif" width="70" height="70 alt="November"></th>
+    <th><img src="./leetcode-badges/2023-10.gif" width="70" height="70 alt="October"></th>
+    <th><img src="./leetcode-badges/2023-09.gif" width="70" height="70 alt="September"></th>
+    <th><img src="./leetcode-badges/2023-08.gif" width="70" height="70 alt="August"></th>
+  </tr>
+  <tr>
+    <td>December Badge</td>
+    <td>November Badge</td>
+    <td>October Badge</td>
+    <td>September Badge</td>
+    <td>August Badge</td>
+  </tr>
+  <tr>
+    <td>12-31-2023</td>
+    <td>11-30-2023</td>
+    <td>10-31-2023</td>
+    <td>09-30-2023</td>
+    <td>08-31-2023</td>
+  </tr>
+</table>
+
+#### Leetcode Competition Medals
+
+<table>
+  <tr>
+    <th><img src="./leetcode-badges/2023-50.gif" width="70" height="70 alt="50 Days"></th>
+    <th><img src="./leetcode-badges/2023-100.gif" width="70" height="70 alt="100 Days"></th>
+  </tr>
+  <tr>
+    <td>50 Days Badge</td>
+    <td>100 Days Badge</td>
+  </tr>
+  <tr>
+    <td>12-15-2023</td>
+    <td>12-15-2023</td>
+  </tr>
+</table>
+
+<hr>
 
 ## Connect with me:
 <p align="left">
