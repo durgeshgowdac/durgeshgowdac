@@ -45,9 +45,14 @@
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=durgeshgowdac&color=3c7dd9&bg_color=0d1117&line=64a1f4&point=bfd6f6)](https://github.com/durgeshgowdac/)
 
 <div align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only" width="700" alt="3D Contribution Profile">
+  <img src="./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" width="700" alt="3D Contribution Profile">
+  
   <img src="https://github.com/durgeshgowdac/durgeshgowdac/blob/output/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
   <img src="https://github.com/durgeshgowdac/durgeshgowdac/blob/output/github-snake.svg?color_snake=#00FC58#gh-light-mode-only" alt="Snake animation">
 </div>
+
+
 
 </br>
 
