@@ -1,5 +1,5 @@
-### Welcome to my GitHub profile
-# Hi, I'm Durgesh Gowda 👋
+<h3>Welcome to my GitHub profile</h3>
+<h1>Hi, I'm Durgesh Gowda 👋</h1>
 
 <!---
 <a href="https://github.com/durgeshgowdac" target="blank">
@@ -7,19 +7,18 @@
 </a>
 -->
 
-<div style="text-align: center;">
+<!-- contact badges -->
+<div>
   
-  [![Github](https://img.shields.io/badge/-Github-100000?&logo=Github&logoColor=white)](https://github.com/durgeshgowdac)
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/durgeshgowdac/)
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:durgeshcgowda@gmail.com)
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  [![LeetCode](https://img.shields.io/badge/-Leetcode-fb8628?&logo=Leetcode&logoColor=black)](https://leetcode.com/durgeshgowdac/)
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  [![HyperSkill](https://img.shields.io/badge/Hyperskill-black?logo=hyperskill&logoColor=5d72e9)](https://hyperskill.org/profile/522832266)
+  [![Github](https://img.shields.io/badge/-Github-181717?&logo=Github&logoColor=white)](https://github.com/durgeshgowdac)
+  [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?&logo=Gmail&logoColor=white)](mailto:durgeshcgowda@gmail.com)
+  [![HyperSkill](https://img.shields.io/badge/Hyperskill-5D72E9?logo=hyperskill&logoColor=white)](https://hyperskill.org/profile/522832266)
+  [![LeetCode](https://img.shields.io/badge/-Leetcode-FFA116?&logo=Leetcode&logoColor=white)](https://leetcode.com/durgeshgowdac/)
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/durgeshgowdac/)
+  
 </div>
 
+<!-- Education -->
 ## > Education:
 ### B.Tech - Presidency University (2019 - 2023)
 - Computer Engineering (Data Science)
@@ -48,23 +47,36 @@
 ## > GitHub Contributions:
 
 <div align="center">
+  <!-- github-activity graph -->
   <a href="https://www.githubwrapped.io/durgeshgowdac">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=durgeshgowdac&color=3c7dd9&bg_color=0d1117&line=64a1f4&point=bfd6f6" alt="github activity graph">
   </a>
+  </br>
+  <!-- github-contributions snake -->
   <img src="https://github.com/durgeshgowdac/durgeshgowdac/blob/output/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
   <img src="https://github.com/durgeshgowdac/durgeshgowdac/blob/output/github-snake.svg?color_snake=#00FC58#gh-light-mode-only" alt="Snake animation">
   </br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durgeshgowdac&theme=city_lights" alt="dark">
-  </br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=durgeshgowdac&theme=city_lights" alt="dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=durgeshgowdac&theme=city_lights&utcOffset=8" alt="dark">
-  </br>
-  <img src="./profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only" width="700" alt="3D Contribution Profile">
-  <img src="./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" width="700" alt="3D Contribution Profile">
-  </br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durgeshgowdac&theme=city_lights" alt="dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=durgeshgowdac&theme=city_lights" alt="dark">
 </div>
+
+<details open>
+  <summary><h3>GitHub Stats</h3></summary>
+  <div>
+    <!-- github-profile details -->
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durgeshgowdac&theme=city_lights" alt="github profile">
+    </br>
+    <!-- github-profile stats and commit timeline -->
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=durgeshgowdac&theme=city_lights" alt="github stats">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=durgeshgowdac&theme=city_lights&utcOffset=8" alt="github commit timeline">
+    </br>
+    <!-- github 3d contribution stats -->
+    <img src="./profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only" width="700" alt="3D Contribution Profile">
+    <img src="./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" width="700" alt="3D Contribution Profile">
+    </br>
+    <!-- github languages -->
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durgeshgowdac&theme=city_lights" alt="repos per language">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=durgeshgowdac&theme=city_lights" alt="most-commit languages">
+  </div>
+</details>
 
 <hr>
 
@@ -106,48 +118,51 @@
   </a>
 </div>
 
-#### Leetcode Daily Medals
+<details open>
+  <summary><h3>Leetcode Daily Medals</h3></summary>
+  <table>
+    <tr>
+      <th><img src="./leetcode-badges/2023-12.gif" width="70" height="70 alt="December"></th>
+      <th><img src="./leetcode-badges/2023-11.gif" width="70" height="70 alt="November"></th>
+      <th><img src="./leetcode-badges/2023-10.gif" width="70" height="70 alt="October"></th>
+      <th><img src="./leetcode-badges/2023-09.gif" width="70" height="70 alt="September"></th>
+      <th><img src="./leetcode-badges/2023-08.gif" width="70" height="70 alt="August"></th>
+    </tr>
+    <tr>
+      <td>December Badge</td>
+      <td>November Badge</td>
+      <td>October Badge</td>
+      <td>September Badge</td>
+      <td>August Badge</td>
+    </tr>
+    <tr>
+      <td>12-31-2023</td>
+      <td>11-30-2023</td>
+      <td>10-31-2023</td>
+      <td>09-30-2023</td>
+      <td>08-31-2023</td>
+    </tr>
+  </table>
+</details>
 
-<table>
-  <tr>
-    <th><img src="./leetcode-badges/2023-12.gif" width="70" height="70 alt="December"></th>
-    <th><img src="./leetcode-badges/2023-11.gif" width="70" height="70 alt="November"></th>
-    <th><img src="./leetcode-badges/2023-10.gif" width="70" height="70 alt="October"></th>
-    <th><img src="./leetcode-badges/2023-09.gif" width="70" height="70 alt="September"></th>
-    <th><img src="./leetcode-badges/2023-08.gif" width="70" height="70 alt="August"></th>
-  </tr>
-  <tr>
-    <td>December Badge</td>
-    <td>November Badge</td>
-    <td>October Badge</td>
-    <td>September Badge</td>
-    <td>August Badge</td>
-  </tr>
-  <tr>
-    <td>12-31-2023</td>
-    <td>11-30-2023</td>
-    <td>10-31-2023</td>
-    <td>09-30-2023</td>
-    <td>08-31-2023</td>
-  </tr>
-</table>
+<details open>
+  <summary><h3>Leetcode Competition Medals</h3></summary>
+  <table>
+    <tr>
+      <th><img src="./leetcode-badges/2023-50.gif" width="70" height="70 alt="50 Days"></th>
+      <th><img src="./leetcode-badges/2023-100.gif" width="70" height="70 alt="100 Days"></th>
+    </tr>
+    <tr>
+      <td>50 Days Badge</td>
+      <td>100 Days Badge</td>
+    </tr>
+    <tr>
+      <td>12-15-2023</td>
+      <td>12-15-2023</td>
+    </tr>
+  </table>
+</details>
 
-#### Leetcode Competition Medals
-
-<table>
-  <tr>
-    <th><img src="./leetcode-badges/2023-50.gif" width="70" height="70 alt="50 Days"></th>
-    <th><img src="./leetcode-badges/2023-100.gif" width="70" height="70 alt="100 Days"></th>
-  </tr>
-  <tr>
-    <td>50 Days Badge</td>
-    <td>100 Days Badge</td>
-  </tr>
-  <tr>
-    <td>12-15-2023</td>
-    <td>12-15-2023</td>
-  </tr>
-</table>
 <hr>
 
 <!--Languages and Tools Section-->       
@@ -157,6 +172,7 @@
 </p>
 <hr>
 
+<!-- Connect --> 
 ## Connect with me:
 <p align="left">
   <a href="https://twitter.com/durgeshgowdac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="durgeshgowdac" height="30" width="40" /></a>
