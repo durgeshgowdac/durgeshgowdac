@@ -8,7 +8,7 @@
 -->
 
 <div style="text-align: center;">
-
+  
   [![Github](https://img.shields.io/badge/-Github-100000?&logo=Github&logoColor=white)](https://github.com/durgeshgowdac)
   &nbsp;&nbsp;&nbsp;&nbsp;
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/durgeshgowdac/)
@@ -148,7 +148,13 @@
     <td>12-15-2023</td>
   </tr>
 </table>
+<hr>
 
+<!--Languages and Tools Section-->       
+<h2>Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=java,py,mysql,r,md,git,regex,arduino,linux,anaconda,androidstudio,github,atom,idea,eclipse,vscode&perline=8"  />
+</p>
 <hr>
 
 ## Connect with me:
