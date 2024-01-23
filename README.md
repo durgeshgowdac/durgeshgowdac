@@ -45,7 +45,8 @@
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=durgeshgowdac&theme=react-dark)](https://github.com/durgeshgowdac/)
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/durgeshgowdac/durgeshgowdac/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/durgeshgowdac/durgeshgowdac/blob/output/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
+  <img src="https://github.com/durgeshgowdac/durgeshgowdac/blob/output/github-snake.svg?color_snake=#00FC58#gh-light-mode-only" alt="Snake animation">
 </div>
 
 </br>
