@@ -47,6 +47,11 @@
 ## > GitHub Contributions:
 
 <div align="center">
+  <a href="https://stats.dooboo.io/en/stats/durgeshgowdac">
+    <img src="https://stats.dooboo.io/api/github-stats-advanced?login=durgeshgowdac" alt="github developer profile">
+  </a>
+  </br>
+  
   <!-- github-activity graph -->
   <a href="https://www.githubwrapped.io/durgeshgowdac">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=durgeshgowdac&color=3c7dd9&bg_color=0d1117&line=64a1f4&point=bfd6f6" alt="github activity graph">
