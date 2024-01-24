@@ -1,4 +1,7 @@
-<h3>Welcome to my GitHub profile</h3>
+<div align="center">
+  <img src="./welcome.png" alt="welcome" width="1000" height="100">
+</div>
+
 <h1>Hi, I'm Durgesh Gowda 👋</h1>
 
 <!---
@@ -48,18 +51,19 @@
 
 <div align="center">
   <a href="https://stats.dooboo.io/en/stats/durgeshgowdac">
-    <img src="https://stats.dooboo.io/api/github-stats-advanced?login=durgeshgowdac" alt="github developer profile">
+    <img src="https://stats.dooboo.io/api/github-stats-advanced?login=durgeshgowdac" alt="github developer profile" width="900">
   </a>
+  </br>
+
+  <!-- github-contributions snake -->
+  <img src="https://github.com/durgeshgowdac/durgeshgowdac/blob/output/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
+  <img src="https://github.com/durgeshgowdac/durgeshgowdac/blob/output/github-snake.svg?color_snake=#00FC58#gh-light-mode-only" alt="Snake animation">
   </br>
   
   <!-- github-activity graph -->
   <a href="https://www.githubwrapped.io/durgeshgowdac">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=durgeshgowdac&color=3c7dd9&bg_color=0d1117&line=64a1f4&point=bfd6f6" alt="github activity graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=durgeshgowdac&color=3c7dd9&bg_color=0d1117&line=64a1f4&point=bfd6f6" alt="github activity graph" width="900">
   </a>
-  </br>
-  <!-- github-contributions snake -->
-  <img src="https://github.com/durgeshgowdac/durgeshgowdac/blob/output/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
-  <img src="https://github.com/durgeshgowdac/durgeshgowdac/blob/output/github-snake.svg?color_snake=#00FC58#gh-light-mode-only" alt="Snake animation">
   </br>
 </div>
 
@@ -67,19 +71,19 @@
   <summary><h3>GitHub Stats</h3></summary>
   <div>
     <!-- github-profile details -->
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durgeshgowdac&theme=city_lights" alt="github profile">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durgeshgowdac&theme=city_lights" alt="github profile" width="700">
     </br>
     <!-- github-profile stats and commit timeline -->
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=durgeshgowdac&theme=city_lights" alt="github stats">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=durgeshgowdac&theme=city_lights&utcOffset=8" alt="github commit timeline">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=durgeshgowdac&theme=city_lights" alt="github stats" width="350">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=durgeshgowdac&theme=city_lights&utcOffset=8" alt="github commit timeline" width="350">
     </br>
     <!-- github 3d contribution stats -->
-    <img src="./profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only" width="700" alt="3D Contribution Profile">
-    <img src="./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" width="700" alt="3D Contribution Profile">
+    <img src="./profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only" width="700" alt="3D Contribution Profile" width="700">
+    <img src="./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" width="700" alt="3D Contribution Profile" width="700">
     </br>
     <!-- github languages -->
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durgeshgowdac&theme=city_lights" alt="repos per language">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=durgeshgowdac&theme=city_lights" alt="most-commit languages">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durgeshgowdac&theme=city_lights" alt="repos per language" width="350">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=durgeshgowdac&theme=city_lights" alt="most-commit languages" width="350">
   </div>
 </details>
 
@@ -119,7 +123,7 @@
 
 <div align="left">
   <a href="https://leetcode.com/durgeshgowdac/" target="blank">
-    <img src="https://leetcode-stats-six.vercel.app/?username=durgeshgowdac&theme=dark" alt="LeetCode Stats">
+    <img src="https://leetcode-stats-six.vercel.app/?username=durgeshgowdac&theme=dark" alt="LeetCode Stats" width="500">
   </a>
 </div>
 
