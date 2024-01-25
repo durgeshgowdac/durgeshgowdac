@@ -67,7 +67,7 @@
   </br>
 </div>
 
-<details open>
+<details close>
   <summary><h3>GitHub Stats</h3></summary>
   <div>
     <!-- github-profile details -->
@@ -154,7 +154,7 @@
   </table>
 </details>
 
-<details open>
+<details close>
   <summary><h3>Leetcode Competition Medals</h3></summary>
   <table>
     <tr>
