@@ -34,6 +34,8 @@
 ## > Experience:
 ### Project intern at the Indian Space Research Organisation (ISRO)
 
+**Duration:** February 2023 - July 2023 **(6 months)**
+
 **Project Topic:** Satellite data processing, retrieval, and visualization using NLP and AI techniques.
 
 - Developed a cross-platform (Windows, Mac, or Linux) application for retrieving and visualizing real-time data.
@@ -45,13 +47,30 @@
 - Built and incorporated a real-time data visualization tool with the NLP system and a robust application for automated data processing pipelines, visualizations, and GUI assisted by OpenAI's Whisper for seamless speech-to-text.
 - Deployed in the mission control center, improving data retrieval and visualization tasks by up to 8x.
 
+---
+
+### Open Source Contributor - [simpleicons.org](https://simpleicons.org/)
+
+<div>
+  <a href="https://github.com/simple-icons/simple-icons/commits?author=durgeshgowdac" target="blank">
+    <img src="./simpleicons-commits.png" alt="commits" align="right" width="30%">
+  </a>
+</div>
+
+<p align="left">Added 3 new icons - Hyperskill, Asahi Linux, Magic </p>
+<p align="left">Updated json simple-icons/_data/simple-icons.json</p>
+
+- [Hyperskill](https://simpleicons.org/icons/hyperskill.svg)
+- [Magic](https://simpleicons.org/icons/magic.svg)
+- [Asahi Linux](https://simpleicons.org/icons/asahilinux.svg)
+<br/>
 <hr>
 
 ## > GitHub Contributions:
 
 <div align="center">
   <a href="https://stats.dooboo.io/en/stats/durgeshgowdac">
-    <img src="https://stats.dooboo.io/api/github-stats-advanced?login=durgeshgowdac" alt="github developer profile" width="900">
+    <img src="https://stats.dooboo.io/api/github-stats?login=durgeshgowdac" alt="github developer profile" width="900">
   </a>
   </br>
 
