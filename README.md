@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./welcome.png" alt="welcome" width="1000" height="100">
+  <img src="./images/welcome.png" alt="welcome" width="1000" height="100">
 </div>
 
 <h1>Hi, I'm Durgesh Gowda 👋</h1>
@@ -67,7 +67,7 @@ You will often find me working on, or writing about:
 
 <div>
   <a href="https://github.com/simple-icons/simple-icons/commits?author=durgeshgowdac" target="blank">
-    <img src="./simpleicons-commits.png" alt="commits" align="right" width="30%">
+    <img src="./images/simpleicons-commits.png" alt="commits" align="right" width="30%">
   </a>
 </div>
 
@@ -216,6 +216,7 @@ You will often find me working on, or writing about:
 
 <!-- Connect --> 
 ## Connect with me:
+
 <p align="left">
   <a href="https://twitter.com/durgeshgowdac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="durgeshgowdac" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/durgeshgowdac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="durgeshgowdac" height="30" width="40" /></a>
@@ -225,3 +226,16 @@ You will often find me working on, or writing about:
   <a href="https://www.leetcode.com/durgeshgowdac" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="durgeshgowdac" height="30" width="40" /></a>
 </p>
 
+## Final Words
+
+<p>Thank you very much for reading until here 😊</p>
+<p>If you like this README, feel free to fork the repo for your reference. Of course, give proper credits to the contributors who made this possible.</p>
+<p>Have a blast! 🚀</p>
+
+</br>
+
+<img alt="wave animation" src="./images/wave_animation_dark.svg#gh-dark-mode-only">
+<img alt="wave animation" src="./images/wave_animation_light.svg#gh-light-mode-only">
+
+<img alt="" src="./images/themed_line_dark.svg#gh-dark-mode-only">
+<img alt="" src="./images/themed_line_light.svg#gh-light-mode-only">
