@@ -226,6 +226,8 @@ You will often find me working on, or writing about:
   <a href="https://www.leetcode.com/durgeshgowdac" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="durgeshgowdac" height="30" width="40" /></a>
 </p>
 
+<hr>
+
 ## Final Words
 
 <p>Thank you very much for reading until here 😊</p>
