@@ -164,6 +164,7 @@ You will often find me working on, or writing about:
   <summary><h3>Leetcode Daily Medals</h3></summary>
   <table>
     <tr>
+      <th><img src="./leetcode-badges/2024-01.gif" width="70" height="70 alt="December"></th>
       <th><img src="./leetcode-badges/2023-12.gif" width="70" height="70 alt="December"></th>
       <th><img src="./leetcode-badges/2023-11.gif" width="70" height="70 alt="November"></th>
       <th><img src="./leetcode-badges/2023-10.gif" width="70" height="70 alt="October"></th>
@@ -171,13 +172,15 @@ You will often find me working on, or writing about:
       <th><img src="./leetcode-badges/2023-08.gif" width="70" height="70 alt="August"></th>
     </tr>
     <tr>
-      <td>December Badge</td>
-      <td>November Badge</td>
-      <td>October Badge</td>
-      <td>September Badge</td>
-      <td>August Badge</td>
+      <td>January 2024</td>
+      <td>December 2023</td>
+      <td>November 2023</td>
+      <td>October 2023</td>
+      <td>September 2023</td>
+      <td>August 2023</td>
     </tr>
     <tr>
+      <td>01-31-2024</td>
       <td>12-31-2023</td>
       <td>11-30-2023</td>
       <td>10-31-2023</td>
