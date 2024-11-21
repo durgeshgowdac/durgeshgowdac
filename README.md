@@ -151,14 +151,18 @@ You will often find me working on, or writing about:
 <a href="https://leetcode.com/durgenious/" target="blank">
   <img src="https://leetcard.jacoblin.cool/durgenious?theme=nord&font=DM%20Mono&ext=heatmap&hide=ranking&animation=false" alt="LeetCode Stats">
 </a>
--->
-
 
 <div align="left">
   <a href="https://leetcode.com/durgenious/" target="blank">
     <img src="https://leetcode-stats-six.vercel.app/?username=durgenious&theme=dark" alt="LeetCode Stats" width="500">
   </a>
 </div>
+
+-->
+
+<a href="https://leetcode.com/durgenious/" target="blank">
+  <img src="https://leetcard.jacoblin.cool/durgenious?theme=nord&font=DM%20Mono&ext=heatmap&hide=ranking&animation=false" alt="LeetCode Stats">
+</a>
 
 <details open>
   <summary><h3>Leetcode Daily Medals</h3></summary>
