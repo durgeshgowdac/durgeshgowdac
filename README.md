@@ -37,8 +37,8 @@ You will often find me working on, or writing about:
 ## > Education:
 ### B.Tech - Presidency University (2019 - 2023)
 - Computer Engineering (Data Science)
-- CGPA (10 points): **9.19**
-- GPA  (4 points) : **3.67**
+- CGPA (10 points): **9.19 (87.30%)**
+- GPA  (4 points) : **3.73**
 - Was part of Google Developer Student Club (GDSC), Microsoft Learn Student Ambassadors (MLSA), Science Club, and CodeChef Community.
 
 <hr>
