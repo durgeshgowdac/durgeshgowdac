@@ -139,11 +139,15 @@ You will often find me working on, or writing about:
   
   [![LeetCode user durgenious](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdurgenious&logo=leetcode&logoColor=yellow)](https://leetcode.com/durgenious/)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [![rating & quartile](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Contest%20Rating&query=ratingQuantile&url=https%3A%2F%2Fbadge.xyli.tech%2Fapi%2Fusers%2Fdurgenious&logo=leetcode&logoColor=yellow)](https://leetcode.com/durgenious/)
+  [![LeetCode user durgenious](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Contest%20Rating&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdurgenious&logo=leetcode&logoColor=yellow)](https://leetcode.com/durgenious/)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [![ranking](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fbadge.xyli.tech%2Fapi%2Fusers%2Fdurgenious&logo=leetcode&logoColor=yellow)](https://leetcode.com/durgenious/)
-  
+  [![LeetCode user durgenious](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdurgenious&logo=leetcode&logoColor=yellow)](https://leetcode.com/durgenious/)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
+
+<!-- Leetcode Badges
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=durgenious&theme=github-dark" alt="LeetCode Badges" />
+-->
 
 <!--Rating
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=durgenious&theme=dark)](https://leetcode.com/durgenious)
@@ -169,6 +173,17 @@ You will often find me working on, or writing about:
   <table>
     <tr>
       <th><img src="./leetcode-badges/2024-01.gif" width="70" height="70 alt="December"></th>
+    </tr>
+    <tr>
+      <td>January 2024</td>
+    </tr>
+    <tr>
+      <td>01-31-2024</td>
+    </tr>
+  </table>
+  
+  <table>
+    <tr>
       <th><img src="./leetcode-badges/2023-12.gif" width="70" height="70 alt="December"></th>
       <th><img src="./leetcode-badges/2023-11.gif" width="70" height="70 alt="November"></th>
       <th><img src="./leetcode-badges/2023-10.gif" width="70" height="70 alt="October"></th>
@@ -176,7 +191,6 @@ You will often find me working on, or writing about:
       <th><img src="./leetcode-badges/2023-08.gif" width="70" height="70 alt="August"></th>
     </tr>
     <tr>
-      <td>January 2024</td>
       <td>December 2023</td>
       <td>November 2023</td>
       <td>October 2023</td>
@@ -184,7 +198,6 @@ You will often find me working on, or writing about:
       <td>August 2023</td>
     </tr>
     <tr>
-      <td>01-31-2024</td>
       <td>12-31-2023</td>
       <td>11-30-2023</td>
       <td>10-31-2023</td>
@@ -195,7 +208,7 @@ You will often find me working on, or writing about:
 </details>
 
 <details close>
-  <summary><h3>Leetcode Competition Medals</h3></summary>
+  <summary><h3>Leetcode Annual Medals</h3></summary>
   <table>
     <tr>
       <th><img src="./leetcode-badges/2023-50.gif" width="70" height="70 alt="50 Days"></th>
@@ -215,10 +228,43 @@ You will often find me working on, or writing about:
 <hr>
 
 <!--Languages and Tools Section-->       
-<h2>Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
-<p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=java,py,mysql,r,md,git,regex,arduino,linux,anaconda,androidstudio,github,atom,idea,eclipse,vscode&perline=8"  />
+<h2>Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2>
+
+<!-- Java - Spring -->
+<p align="left">
+  <img width="400px"  src="https://skillicons.dev/icons?i=java,spring,gradle,maven,hibernate,idea,eclipse,androidstudio&perline=8"  />
 </p>
+
+<!-- Python -->
+<p align="left">
+  <img width="300px"  src="https://skillicons.dev/icons?i=py,r,sklearn,tensorflow,pycharm,anaconda&perline=10"  />
+</p>
+
+<!-- Databases -->
+<p align="left">
+  <img width="250px"  src="https://skillicons.dev/icons?i=mysql,postgres,mongo,sqlite,redis&perline=5"  />
+</p>
+
+<!-- OS -->
+<p align="left">
+  <img width="350px"  src="https://skillicons.dev/icons?i=linux,redhat,kali,ubuntu,debian,arch,mint&perline=7"  />
+</p>
+
+<!-- git -->
+<p align="left">
+  <img width="250px" src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,stackoverflow&perline=10" />
+</p>
+
+<!-- FrontEnd -->
+<p align="left">
+  <img width="350px"  src="https://skillicons.dev/icons?i=html,css,js,webstorm,vscode,atom,sublime&perline=7"  />
+</p>
+
+<!-- Other Languages -->
+<p align="left">
+  <img width="400px"  src="https://skillicons.dev/icons?i=c,go,arduino,md,regex,obsidian,notion,postman&perline=10"  />
+</p>
+
 <hr>
 
 <!-- Connect --> 
