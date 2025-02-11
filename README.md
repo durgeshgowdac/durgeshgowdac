@@ -28,7 +28,7 @@ My name is Durgesh Gowda C (he, him), and I am a self-taught Java developer, wit
 You will often find me working on, or writing about:
 - Machine Learning Projects
 - Deep Learning Projects
-- Java Projects
+- Java Projects (Spring and Spring Boot)
 - Mobile Application Development (Android Studio)
 - Python Projects
 - MySQL Projects
@@ -63,7 +63,7 @@ You will often find me working on, or writing about:
 
 ### Open Source Contributor - [simpleicons.org](https://simpleicons.org/)
 
-**Duration:** December 2023 - present
+**Duration:** December 2023 - March 2024
 
 <div>
   <a href="https://github.com/simple-icons/simple-icons/commits?author=durgenious" target="blank">
@@ -71,12 +71,18 @@ You will often find me working on, or writing about:
   </a>
 </div>
 
-<p align="left">• Added 3 new icons - Hyperskill, Asahi Linux, Magic </p>
+<p align="left">• Added 7 new icons - Hyperskill, Asahi Linux, Magic, Milanote, Google Chronicle, Akiflow, TrueUp </p>
+<p align="left">• Updated 1 icon - Tubi </p>
 <p align="left">• Updated simple-icons/_data/simple-icons.json</p>
 
  - [Hyperskill](https://simpleicons.org/icons/hyperskill.svg)
- - [Magic](https://simpleicons.org/icons/magic.svg)
  - [Asahi Linux](https://simpleicons.org/icons/asahilinux.svg)
+ - [Magic](https://simpleicons.org/icons/magic.svg)
+ - [Milanote](https://simpleicons.org/icons/milanote.svg)
+ - [Google Chronicle](https://simpleicons.org/icons/googlechronicle.svg)
+ - [Tubi](https://simpleicons.org/icons/tubi.svg)
+ - [Akiflow](https://simpleicons.org/icons/akiflow.svg)
+ - [TrueUp](https://simpleicons.org/icons/trueup.svg)
 <br/>
 <hr>
 
