@@ -172,13 +172,31 @@ You will often find me working on, or writing about:
   <summary><h3>Leetcode Daily Medals</h3></summary>
   <table>
     <tr>
-      <th><img src="./leetcode-badges/2024-01.gif" width="70" height="70 alt="December"></th>
+      <th><img src="./leetcode-badges/2024-01.gif" width="70" height="70 alt="January"></th>
+      <th><img src="./leetcode-badges/2024-02.gif" width="70" height="70 alt="February"></th>
+      <th><img src="./leetcode-badges/2024-03.gif" width="70" height="70 alt="March"></th>
+      <th><img src="./leetcode-badges/2024-04.gif" width="70" height="70 alt="April"></th>
+      <th><img src="./leetcode-badges/2024-05.gif" width="70" height="70 alt="May"></th>
+      <th><img src="./leetcode-badges/2024-06.gif" width="70" height="70 alt="June"></th>
+      <th><img src="./leetcode-badges/2024-07.gif" width="70" height="70 alt="July"></th>
     </tr>
     <tr>
       <td>January 2024</td>
+      <td>February 2024</td>
+      <td>March 2024</td>
+      <td>April 2024</td>
+      <td>May 2024</td>
+      <td>June 2024</td>
+      <td>July 2024</td>
     </tr>
     <tr>
       <td>01-31-2024</td>
+      <td>02-29-2024</td>
+      <td>03-31-2024</td>
+      <td>04-30-2024</td>
+      <td>05-31-2024</td>
+      <td>06-30-2024</td>
+      <td>07-31-2024</td>
     </tr>
   </table>
   
@@ -211,12 +229,39 @@ You will often find me working on, or writing about:
   <summary><h3>Leetcode Annual Medals</h3></summary>
   <table>
     <tr>
-      <th><img src="./leetcode-badges/2023-50.gif" width="70" height="70 alt="50 Days"></th>
-      <th><img src="./leetcode-badges/2023-100.gif" width="70" height="70 alt="100 Days"></th>
+      <th><img src="./leetcode-badges/365_new.gif" width="70" height="70 alt="365 Days"></th>
     </tr>
     <tr>
-      <td>50 Days Badge</td>
+      <td>SUBMITTED CODE ON 365 OR MORE DAYS IN TOTAL</td>
+    </tr>
+  </table>
+  
+  <table>
+    <tr>
+      <th><img src="./leetcode-badges/2024-200.gif" width="70" height="70 alt="200 Days"></th>
+      <th><img src="./leetcode-badges/2024-100-new.gif" width="70" height="70 alt="100 Days"></th>
+      <th><img src="./leetcode-badges/2024-50.gif" width="70" height="70 alt="50 Days"></th>
+    </tr>
+    <tr>
+      <td>200 Days Badge</td>
       <td>100 Days Badge</td>
+      <td>50 Days Badge</td>
+    </tr>
+    <tr>
+      <td>07-21-2024</td>
+      <td>04-10-2024</td>
+      <td>02-21-2024</td>
+    </tr>
+  </table>
+  
+  <table>
+    <tr>
+      <th><img src="./leetcode-badges/2023-100.gif" width="70" height="70 alt="100 Days"></th>
+      <th><img src="./leetcode-badges/2023-50.gif" width="70" height="70 alt="50 Days"></th>
+    </tr>
+    <tr>
+      <td>100 Days Badge</td>
+      <td>50 Days Badge</td>
     </tr>
     <tr>
       <td>12-15-2023</td>
