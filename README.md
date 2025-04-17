@@ -13,11 +13,11 @@
 <!-- contact badges -->
 <div>
   
-  [![Github](https://img.shields.io/badge/-Github-181717?&logo=Github&logoColor=white)](https://github.com/durgenious)
+  [![Github](https://img.shields.io/badge/-Github-181717?&logo=Github&logoColor=white)](https://github.com/durgeshgowdac)
   [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?&logo=Gmail&logoColor=white)](mailto:durgeshcgowda@gmail.com)
   [![HyperSkill](https://img.shields.io/badge/Hyperskill-5D72E9?logo=hyperskill&logoColor=white)](https://hyperskill.org/profile/522832266)
-  [![LeetCode](https://img.shields.io/badge/-Leetcode-FFA116?&logo=Leetcode&logoColor=white)](https://leetcode.com/durgenious/)
-  [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/durgenious/)
+  [![LeetCode](https://img.shields.io/badge/-Leetcode-FFA116?&logo=Leetcode&logoColor=white)](https://leetcode.com/durgeshgowdac/)
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/durgeshgowdac/)
   
 </div>
 
@@ -66,7 +66,7 @@ You will often find me working on, or writing about:
 **Duration:** December 2023 - March 2024
 
 <div>
-  <a href="https://github.com/simple-icons/simple-icons/commits?author=durgenious" target="blank">
+  <a href="https://github.com/simple-icons/simple-icons/commits?author=durgeshgowdac" target="blank">
     <img src="./images/simpleicons-commits.png" alt="commits" align="right" width="30%">
   </a>
 </div>
@@ -89,19 +89,19 @@ You will often find me working on, or writing about:
 ## > GitHub Contributions:
 
 <div align="center">
-  <a href="https://stats.dooboo.io/en/stats/durgenious">
-    <img src="https://stats.dooboo.io/api/github-stats?login=durgenious" alt="github developer profile" width="900">
+  <a href="https://stats.dooboo.io/en/stats/durgeshgowdac">
+    <img src="https://stats.dooboo.io/api/github-stats?login=durgeshgowdac" alt="github developer profile" width="900">
   </a>
   </br>
 
   <!-- github-contributions snake -->
-  <img src="https://github.com/durgenious/durgenious/blob/output/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
-  <img src="https://github.com/durgenious/durgenious/blob/output/github-snake.svg?color_snake=#00FC58#gh-light-mode-only" alt="Snake animation">
+  <img src="https://github.com/durgeshgowdac/durgeshgowdac/blob/output/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
+  <img src="https://github.com/durgeshgowdac/durgeshgowdac/blob/output/github-snake.svg?color_snake=#00FC58#gh-light-mode-only" alt="Snake animation">
   </br>
   
   <!-- github-activity graph -->
-  <a href="https://www.githubwrapped.io/durgenious">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=durgenious&color=3c7dd9&bg_color=0d1117&line=64a1f4&point=bfd6f6" alt="github activity graph" width="900">
+  <a href="https://www.githubwrapped.io/durgeshgowdac">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=durgeshgowdac&color=3c7dd9&bg_color=0d1117&line=64a1f4&point=bfd6f6" alt="github activity graph" width="900">
   </a>
   </br>
 </div>
@@ -110,19 +110,19 @@ You will often find me working on, or writing about:
   <summary><h3>GitHub Stats</h3></summary>
   <div>
     <!-- github-profile details -->
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durgenious&theme=city_lights" alt="github profile" width="700">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durgeshgowdac&theme=city_lights" alt="github profile" width="700">
     </br>
     <!-- github-profile stats and commit timeline -->
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=durgenious&theme=city_lights" alt="github stats" width="350">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=durgenious&theme=city_lights&utcOffset=8" alt="github commit timeline" width="350">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=durgeshgowdac&theme=city_lights" alt="github stats" width="350">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=durgeshgowdac&theme=city_lights&utcOffset=8" alt="github commit timeline" width="350">
     </br>
     <!-- github 3d contribution stats -->
     <img src="./profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only" width="700" alt="3D Contribution Profile" width="700">
     <img src="./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" width="700" alt="3D Contribution Profile" width="700">
     </br>
     <!-- github languages -->
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durgenious&theme=city_lights" alt="repos per language" width="350">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=durgenious&theme=city_lights" alt="most-commit languages" width="350">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durgeshgowdac&theme=city_lights" alt="repos per language" width="350">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=durgeshgowdac&theme=city_lights" alt="most-commit languages" width="350">
   </div>
 </details>
 
@@ -131,8 +131,8 @@ You will often find me working on, or writing about:
 ## > GitHub Gists:
 
 <p align="left">
-  <a href="https://gist.github.com/durgenious/edb58670bd65ef45742e9ee522d5ea99" target="blank">
-    <img src="https://gists-readme.yizack.com/api/pin?user=durgenious&id=edb58670bd65ef45742e9ee522d5ea99&owner=true&theme=dark" alt="gists" />
+  <a href="https://gist.github.com/durgeshgowdac/edb58670bd65ef45742e9ee522d5ea99" target="blank">
+    <img src="https://gists-readme.yizack.com/api/pin?user=durgeshgowdac&id=edb58670bd65ef45742e9ee522d5ea99&owner=true&theme=dark" alt="gists" />
   </a>
 </p>
 
@@ -143,11 +143,11 @@ You will often find me working on, or writing about:
 <!--- Leetcode solved, contest rating, ranking (shield.io) badges-->
 <div style="text-align: center;">
   
-  [![LeetCode user durgenious](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdurgenious&logo=leetcode&logoColor=yellow)](https://leetcode.com/durgenious/)
+  [![LeetCode user durgeshgowdac](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdurgeshgowdac&logo=leetcode&logoColor=yellow)](https://leetcode.com/durgeshgowdac/)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [![LeetCode user durgenious](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Contest%20Rating&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdurgenious&logo=leetcode&logoColor=yellow)](https://leetcode.com/durgenious/)
+  [![LeetCode user durgeshgowdac](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Contest%20Rating&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdurgeshgowdac&logo=leetcode&logoColor=yellow)](https://leetcode.com/durgeshgowdac/)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [![LeetCode user durgenious](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdurgenious&logo=leetcode&logoColor=yellow)](https://leetcode.com/durgenious/)
+  [![LeetCode user durgeshgowdac](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdurgeshgowdac&logo=leetcode&logoColor=yellow)](https://leetcode.com/durgeshgowdac/)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
@@ -170,8 +170,8 @@ You will often find me working on, or writing about:
 
 -->
 
-<a href="https://leetcode.com/durgenious/" target="blank">
-  <img src="https://leetcard.jacoblin.cool/durgenious?theme=nord&font=DM%20Mono&ext=heatmap&hide=ranking&animation=false" alt="LeetCode Stats">
+<a href="https://leetcode.com/durgeshgowdac/" target="blank">
+  <img src="https://leetcard.jacoblin.cool/durgeshgowdac?theme=nord&font=DM%20Mono&ext=heatmap&hide=ranking&animation=false" alt="LeetCode Stats">
 </a>
 
 <details open>
@@ -323,11 +323,11 @@ You will often find me working on, or writing about:
 
 <p align="left">
   <a href="https://twitter.com/durgenious" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="durgenious" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/durgenious" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="durgenious" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/durgeshgowdac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="durgeshgowdac" height="30" width="40" /></a>
   <a href="https://kaggle.com/durgenious" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="durgenious" height="30" width="40" /></a>
   <a href="https://instagram.com/durgenious" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="durgenious" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/durgenious" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="durgenious" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/durgenious" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="durgenious" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/durgeshgowdac" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="durgeshgowdac" height="30" width="40" /></a>
 </p>
 
 <hr>
