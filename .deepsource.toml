@@ -1,28 +1,11 @@
 version = 1
 
-# Global patterns for files/directories to exclude from analysis
 exclude_patterns = [
     "**/README.md",        # Personal profile readme (no code to analyze)
     "**/LICENSE"           # Standard license file
 ]
 
-# Glob patterns to identify test files (if any)
-test_patterns = [
-    "**/test_*.py",
-    "**/test.*",
-    "**/tests/**"
-]
-
-# Enable the YAML analyzer (for GitHub Actions workflows)
-[[analyzers]]
-name = "yaml"
-enabled = true
-
-    [analyzers.meta]
-    # Enable YAML best practice checks
-    yaml_schema_validator = true
-
-# Enable secret detection (critical for any repository)
+# Enable the secrets analyzer (critical for any repository)
 [[analyzers]]
 name = "secrets"
 enabled = true
