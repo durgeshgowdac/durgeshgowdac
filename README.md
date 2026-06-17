@@ -62,7 +62,7 @@ Here's the tech I use to bring ideas to life:
 - Fine-tuned **RoBERTa** for domain-specific NER on satellite mission vocabulary; integrated **OpenAI Whisper** for voice command support — giving scientists a natural language interface to ISRO's operational servers.
 - Built a semantic search engine (Whoosh + SpaCy) that replaced keyword-only lookup and improved retrieval speed **10x**. Delivered as a production Tkinter desktop application inside ISRO's live environment.
 
-**3. Simple Icons** · Open Source Contributor [View contributions →](https://github.com/simple-icons/simple-icons/commits?author=durgeshgowdac)
+**3. Simple Icons** (Open Source Contributor) [View contributions →](https://github.com/simple-icons/simple-icons/commits?author=durgeshgowdac)
 
 **Duration:** Jan 2024 - present
 
@@ -83,8 +83,8 @@ Check out some of my work:
 
 <div align='center'>
   
-  [![Snake animation](https://github.com/durgeshgowdac/durgeshgowdac/raw/output/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only)](https://github.com/durgeshgowdac)
-  [![Snake animation](https://github.com/durgeshgowdac/durgeshgowdac/raw/output/github-snake.svg?color_snake=#00FC58#gh-light-mode-only)](https://github.com/durgeshgowdac)
+  [![Snake animation dark mode](https://github.com/durgeshgowdac/durgeshgowdac/raw/output/ocean.svg#gh-dark-mode-only)](https://github.com/durgeshgowdac)
+  [![Snake animation light mode](https://github.com/durgeshgowdac/durgeshgowdac/raw/output/github-snake.svg#gh-light-mode-only)](https://github.com/durgeshgowdac)
 
 </div>
 
