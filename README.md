@@ -82,9 +82,14 @@ Check out some of my work:
 (Explore the repos for code and details!)
 
 <div align='center'>
-  
-  [![Snake animation dark mode](https://github.com/durgeshgowdac/durgeshgowdac/raw/output/ocean.svg#gh-dark-mode-only)](https://github.com/durgeshgowdac)
-  [![Snake animation light mode](https://github.com/durgeshgowdac/durgeshgowdac/raw/output/github-snake.svg#gh-light-mode-only)](https://github.com/durgeshgowdac)
+
+<a href="https://github.com/durgeshgowdac">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/durgeshgowdac/durgeshgowdac/raw/output/ocean.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/durgeshgowdac/durgeshgowdac/raw/output/github-snake.svg">
+    <img alt="Snake animation" src="https://github.com/durgeshgowdac/durgeshgowdac/raw/output/github-snake.svg">
+  </picture>
+</a>
 
 </div>
 
