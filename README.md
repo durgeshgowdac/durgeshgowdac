@@ -34,13 +34,18 @@ Right now I'm exploring the GenAI stack — multimodal RAG, LLMs, and MLOps — 
 
 Here's the tech I use to bring ideas to life:
 
-- **Languages** — Python, C++, Java, Bash
-- **AI / ML / DL** — PyTorch, TensorFlow, HuggingFace Transformers, scikit-learn, OpenCV, FAISS, YOLO
-- **GenAI & Cloud AI** — Gemini API, Vertex AI, Multimodal RAG, Google Cloud AI, BigQuery ML
-- **Specialties** — Computer Vision, NLP, Deep Learning, Semantic Search, Model Fine-Tuning, NVIDIA DeepStream, CUDA
-- **Infrastructure** — Docker, GCP, App Engine
-- **Backend & Databases** — FastApi, MySQL, PostgreSQL, MongoDB, SQLite
+- **Languages** — Python, C++, Java, Bash, C#
+- **Machine Learning & Deep Learning** — Machine Learning, Deep Learning, PyTorch, TensorFlow, Hugging Face Transformers, scikit-learn, TF-IDF
+- **Computer Vision** — OpenCV, YOLO, ByteTrack, FAISS, NVIDIA DeepStream, CUDA, Person Re-Identification, Object Detection & Tracking
+- **NLP** — Natural Language Processing (NLP), Named Entity Recognition (RoBERTa fine-tuning), Semantic Search, spaCy, NLTK, OpenAI Whisper
+- **GenAI & Multimodal** — Retrieval-Augmented Generation (RAG), Multimodal AI, Chainlit, pgvector, Gemini API, Vertex AI, Google Cloud AI, BigQuery ML
+- **Data Science** — Data Science, Data Analysis, Data Visualization, Pandas, NumPy, Matplotlib, Seaborn
+- **Backend & Databases** — FastAPI, Django, Next.js, Spring Framework, PostgreSQL, MySQL, SQLite, REST APIs, MVC
+- **CS Fundamentals** — Algorithms, Data Structures, Object-Oriented Programming (OOP), Multithreading, Regular Expressions, Debugging
+- **Infrastructure & Cloud** — Docker, Modal, Ollama, GCP, AWS
 - **Tools** — Git, GitHub, Postman, Linux
+
+*Currently building GenAI/cloud skills on Google Cloud (Vertex AI, Gemini API, BigQuery ML) — Diamond League, 84,700 pts.*
 
 ## Experience
 
