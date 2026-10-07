@@ -69,7 +69,7 @@ Here's the tech I use to bring ideas to life:
 
 **3. Simple Icons** (Open Source Contributor) [View contributions →](https://github.com/simple-icons/simple-icons/commits?author=durgeshgowdac)
 
-**Duration:** Jan 2024 - present
+**Duration:** Dec 2023 - present
 
 - Contributed brand icons to a globally used open-source icon library. Maintained JSON schema compliance via standard GitHub PR workflows.
 
