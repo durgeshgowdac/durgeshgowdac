@@ -82,10 +82,11 @@ Check out some of my work:
 - **[FoundYou](https://github.com/durgeshgowdac/foundyou)** — Multi-camera person Re-ID with FAISS-accelerated three-stage identity matching, YOLO + ByteTrack + OSNet-512. Handles occlusions, re-entries, and cross-camera ID linking with minimal false positives.
 - **[MLXnarrator](https://github.com/durgeshgowdac/MLXnarrator)** — Offline narration pipeline for screen recordings on Apple Silicon. Speaks a plain-text script with Kokoro TTS (MLX), fits the audio to the video, generates subtitles with whisper.cpp, and renders the final MP4 with ffmpeg. Runs from the terminal or double-click launchers, with no cloud or API keys.
 - **[RoleSense](https://github.com/durgeshgowdac/RoleSense)** — Resume screening app that classifies resumes into 40+ categories and matches them to job descriptions via TF-IDF similarity and a trained classifier (Random Forest, ~82% accuracy). Streamlit UI with batch processing and pass/fail thresholds.
+- **[ArtAttack](https://github.com/durgeshgowdac/ArtAttack)** — First-person 3D art gallery game in Unity with custom ShaderLab paint shaders, physics-based brush mechanics, security AI, and localization support.
 - **[SAMS](https://github.com/durgeshgowdac/Student-Attendance-Management-System)** — Full-stack Django attendance management system with role-based access (admin, teacher, student), dashboards, and reporting across institutions.
 - **[Newton-Gravity](https://github.com/durgeshgowdac/Newton-Gravity)** — Real-time 3D gravitational physics simulation in C++ and OpenGL with custom physics logic and interactive camera controls.
 - **[AVL Tree Visualizer](https://github.com/durgeshgowdac/avl-tree-visualization)** — Interactive Java/Swing GUI for step-by-step AVL tree operations with controllable animation speed, built as an educational tool.
-- **[ArtAttack](https://github.com/durgeshgowdac/ArtAttack)** — First-person 3D art gallery game in Unity with custom ShaderLab paint shaders, physics-based brush mechanics, security AI, and localization support.
+
 
 (Explore the repos for code and details!)
 
