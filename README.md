@@ -143,7 +143,7 @@ Thanks for stopping by! 🚀
 - 💻 600+ LeetCode problems · 3,800+ Hyperskill problems · Open-source contributor to Simple Icons
 
 <h2>Education</h2>
-<h3></h3>M.Tech - Presidency University (2024 - 2026)</h3>
+<h3></h3>M.Tech - PES University (2024 - 2026)</h3>
 
 - Computer Science Engineering (Machine Intelligence - Machine Learning + Artificial Intelligence)
 - **Prof. CNR Rao Scholar**
