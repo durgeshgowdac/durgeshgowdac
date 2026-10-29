@@ -71,17 +71,16 @@ Here's the tech I use to bring ideas to life:
 
 **Duration:** Jan 2024 - present
 
-- Contributed brand icons to a globally used open-source icon library. Maintained JSON schema compliance via standard GitHub PR workflows.
-
+- Contributed several brand icons and updates to a widely used open-source icon library. Maintained JSON schema compliance via standard GitHub PR workflows. Continue to contribute occasionally.
 
 ## Projects I'm proud of
 
 Check out some of my work:
 
-- **[GlyphScholar](https://github.com/durgeshgowdac/GlyphScholar)** — Multimodal RAG for PDFs. Parses text, tables, formulas, and page images (via MinerU), retrieves with dense vectors (pgvector), BM25, and image search in parallel, then reranks before answering through a Chainlit chat UI. Runs on Ollama locally or bursts to Modal GPUs.
-- **[FoundYou](https://github.com/durgeshgowdac/foundyou)** — Multi-camera person Re-ID with FAISS-accelerated three-stage identity matching, YOLO + ByteTrack + OSNet-512. Handles occlusions, re-entries, and cross-camera ID linking with minimal false positives.
-- **[MLXnarrator](https://github.com/durgeshgowdac/MLXnarrator)** — Offline narration pipeline for screen recordings on Apple Silicon. Speaks a plain-text script with Kokoro TTS (MLX), fits the audio to the video, generates subtitles with whisper.cpp, and renders the final MP4 with ffmpeg. Runs from the terminal or double-click launchers, with no cloud or API keys.
-- **[RoleSense](https://github.com/durgeshgowdac/RoleSense)** — Resume screening app that classifies resumes into 40+ categories and matches them to job descriptions via TF-IDF similarity and a trained classifier (Random Forest, ~82% accuracy). Streamlit UI with batch processing and pass/fail thresholds.
+- **[GlyphScholar](https://github.com/durgeshgowdac/GlyphScholar)** — Multimodal RAG for PDFs. Parses text, tables, formulas, and page images (via MinerU), retrieves with dense vectors (pgvector), BM25, and image search in parallel, then reranks before answering through a Chainlit chat UI. Runs on Ollama locally or bursts to Modal GPUs. [Live demo](https://glyphscholar.vercel.app)
+- **[FoundYou](https://github.com/durgeshgowdac/FoundYou)** — Multi-camera person Re-ID with FAISS-accelerated three-stage identity matching, YOLO + ByteTrack + OSNet-512. Handles occlusions, re-entries, and cross-camera ID linking with minimal false positives.    Co-authored research paper ([Zenodo](https://doi.org/10.5281/zenodo.23178297)); MOTA 0.93 and IDF1 0.89 on a synthetic two-camera benchmark.
+- **[MLXnarrator](https://github.com/durgeshgowdac/MLXnarrator)** — Offline narration pipeline for screen recordings on Apple Silicon. Speaks a plain-text script with Kokoro TTS (MLX), fits the audio to the video, generates subtitles with whisper.cpp, and renders the final MP4 with ffmpeg. Runs from the terminal or double-click launchers, with no cloud or API keys after a one-time model download.
+- **[RoleSense](https://github.com/durgeshgowdac/RoleSense)** — Resume screening app that classifies resumes into 43 categories and matches them to job descriptions via TF-IDF similarity and a trained classifier (Random Forest, ~82% accuracy). Streamlit UI with batch processing and pass/fail thresholds. [Live demo](https://rolesense.streamlit.app)
 - **[ArtAttack](https://github.com/durgeshgowdac/ArtAttack)** — First-person 3D art gallery game in Unity with custom ShaderLab paint shaders, physics-based brush mechanics, security AI, and localization support.
 - **[SAMS](https://github.com/durgeshgowdac/Student-Attendance-Management-System)** — Full-stack Django attendance management system with role-based access (admin, teacher, student), dashboards, and reporting across institutions.
 - **[Newton-Gravity](https://github.com/durgeshgowdac/Newton-Gravity)** — Real-time 3D gravitational physics simulation in C++ and OpenGL with custom physics logic and interactive camera controls.
@@ -107,10 +106,30 @@ Check out some of my work:
 | Event                                                                       | Project                                                      | Role      | Result                                |
 | --------------------------------------------------------------------------- | ------------------------------------------------------------ | --------- | ------------------------------------- |
 | **CIDECODE Cyber Hackathon** — Karnataka Police CID × PES University (2025) | NoFakeAI (deepfake detection system)                         | Team Lead | **6th / 341 teams** Top 40 nationally |
-| **TexPedition Hackathon** — Epsilon x Hack2Skill (2025)                     | AdComply (Advertisement Compliance system)                   | Team Lead | Finalists                             |
-| Smart India Hackathon — Ministry of Education (2025)                        | FixMyNagara (Civic lssue Reporting and Resolution System) | Team Lead | Selected                              |
-| **Tata Elxsi TELIPORT Season 3**                                            | Mentored Team **"Code Bunnies"**                             | Mentor    | -                                     |
+| **TexPedition Hackathon** — Epsilon x Hack2Skill (2025)                     | AdComply (Advertisement Compliance system)                   | Team Lead | Finalist                              |
+| Smart India Hackathon — Ministry of Education (2025)                        | FixMyNagara (Civic Issue Reporting and Resolution System)    | Team Lead | Selected                              |
+| **Tata Elxsi TELIPORT Season 3**                                            | Mentored Team **"Code Bunnies"**                             | Mentor    | Mentored a team                       |
 
+
+<h2>Education</h2>
+<h3>M.Tech - PES University (2024 - 2026)</h3>
+
+- Computer Science Engineering (Machine Intelligence - Machine Learning + Artificial Intelligence)
+- **Prof. CNR Rao Scholar**
+- CGPA (10 points) : **9.41 (89.39 %)**
+- GPA  (4 points) : **3.76**
+- UK Equivalent : First-Class Honours (1st) / Distinction
+- Participated in CIDECODE, TeXpedition, Smart India Hackathon (SIH), mentored in Tata Elxsi Hackathon (season 3)
+- Attended Guidewire DEVSummit 2025, and worked as Invigilation Teaching Assistant
+
+
+<h3>B.Tech - Presidency University (2019 - 2023)</h3>
+
+- Computer Engineering (Data Science)
+- CGPA (10 points): **9.19 (87.30 %)**
+- GPA  (4 points) : **3.68**
+- UK Equivalent : First-Class Honours (1st) / Distinction
+- Was part of Google Developer Student Club (GDSC), Microsoft Learn Student Ambassadors (MLSA), Science Club, and CodeChef Community.
 
 ## Let's connect
 
@@ -130,8 +149,7 @@ Thanks for stopping by! 🚀
 ---
 
 <details close>
-  <summary><h3>Miscellaneous [Click]</h3></summary>
-
+<summary><h3>Miscellaneous [Click]</h3></summary>
 <h2>Profile Summary</h2>
 
 - 🎓 **MTech Computer Science (Machine Intelligence)** — PES University · CGPA 9.41 · Prof. CNR Rao Scholar
@@ -140,27 +158,7 @@ Thanks for stopping by! 🚀
 - ☁️ Google Skills **Diamond League** — 84,700 pts · Gemini, Multimodal RAG, MLOps on Vertex AI, Terraform, Kubernetes
 - 🏆 National hackathon finalist — 6th out of 341 teams (CIDECODE × Karnataka Police CID) · Selected for SIH 2025
 - 💡 Mentored Team "Code Bunnies" at Tata Elxsi TELIPORT Season 3
-- 💻 600+ LeetCode problems · 3,800+ Hyperskill problems · Open-source contributor to Simple Icons
-
-<h2>Education</h2>
-<h3></h3>M.Tech - PES University (2024 - 2026)</h3>
-
-- Computer Science Engineering (Machine Intelligence - Machine Learning + Artificial Intelligence)
-- **Prof. CNR Rao Scholar**
-- CGPA (10 points) : **9.41 (89.39 %)**
-- GPA  (4 points) : **3.76**
-- UK Equivalent : First-Class Honours (1st) / Distinction
-- Participated in CIDECODE, TeXpedition, Smart India Hackathon (SIH), mentored in Tata Elxsi Hackathon (season 3)
-- Attended Guidewire DEVSummit 2025, and worked as Invigilation Teaching Assistant
-
-
-<h3>B.Tech - Presidency University (2019 - 2023)</h3>
-
-- Computer Engineering (Data Science)
-- CGPA (10 points): **9.19 (87.30 %)**
-- GPA  (4 points) : **3.68**
-- UK Equivalent : First-Class Honours (1st) / Distinction
-- Was part of Google Developer Student Club (GDSC), Microsoft Learn Student Ambassadors (MLSA), Science Club, and CodeChef Community.
+- 💻 600+ LeetCode problems · 6,000+ Hyperskill problems · Open-source contributor to Simple Icons
 
 <h2>Google Cloud — Skills & Certifications</h2>
 
@@ -196,19 +194,19 @@ Thanks for stopping by! 🚀
     </a>
     </br>
     <!-- github-profile details -->
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durgeshgowdac&theme=city_lights" alt="github profile" width="700">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durgeshgowdac&theme=city_lights" alt="github profile" width="700">
     </br>
     <!-- github-profile stats and commit timeline -->
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=durgeshgowdac&theme=city_lights" alt="github stats" width="350">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=durgeshgowdac&theme=city_lights&utcOffset=8" alt="github commit timeline" width="350">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=durgeshgowdac&theme=city_lights" alt="github stats" width="350">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=durgeshgowdac&theme=city_lights&utcOffset=5" alt="github commit timeline" width="350">
     </br>
     <!-- github 3d contribution stats -->
-    <img src="./profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only" width="700" alt="3D Contribution Profile" width="700">
-    <img src="./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" width="700" alt="3D Contribution Profile" width="700">
+    <img src="./profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only" width="700" alt="3D Contribution Profile">
+    <img src="./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" width="700" alt="3D Contribution Profile">
     </br>
     <!-- github languages -->
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durgeshgowdac&theme=city_lights" alt="repos per language" width="350">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=durgeshgowdac&theme=city_lights" alt="most-commit languages" width="350">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durgeshgowdac&theme=city_lights" alt="repos per language" width="350">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=durgeshgowdac&theme=city_lights" alt="most-commit languages" width="350">
   </div>
 
   <h3>Github Gists</h3>
@@ -236,13 +234,13 @@ Thanks for stopping by! 🚀
   
   <table>
     <tr>
-      <th><img src="./leetcode-badges/2024-01.gif" width="70" height="70 alt="January"></th>
-      <th><img src="./leetcode-badges/2024-02.gif" width="70" height="70 alt="February"></th>
-      <th><img src="./leetcode-badges/2024-03.gif" width="70" height="70 alt="March"></th>
-      <th><img src="./leetcode-badges/2024-04.gif" width="70" height="70 alt="April"></th>
-      <th><img src="./leetcode-badges/2024-05.gif" width="70" height="70 alt="May"></th>
-      <th><img src="./leetcode-badges/2024-06.gif" width="70" height="70 alt="June"></th>
-      <th><img src="./leetcode-badges/2024-07.gif" width="70" height="70 alt="July"></th>
+      <th><img src="./leetcode-badges/2024-01.gif" width="70" height="70" alt="January"></th>
+      <th><img src="./leetcode-badges/2024-02.gif" width="70" height="70" alt="February"></th>
+      <th><img src="./leetcode-badges/2024-03.gif" width="70" height="70" alt="March"></th>
+      <th><img src="./leetcode-badges/2024-04.gif" width="70" height="70" alt="April"></th>
+      <th><img src="./leetcode-badges/2024-05.gif" width="70" height="70" alt="May"></th>
+      <th><img src="./leetcode-badges/2024-06.gif" width="70" height="70" alt="June"></th>
+      <th><img src="./leetcode-badges/2024-07.gif" width="70" height="70" alt="July"></th>
     </tr>
     <tr>
       <td>January 2024</td>
@@ -266,11 +264,11 @@ Thanks for stopping by! 🚀
   
   <table>
     <tr>
-      <th><img src="./leetcode-badges/2023-12.gif" width="70" height="70 alt="December"></th>
-      <th><img src="./leetcode-badges/2023-11.gif" width="70" height="70 alt="November"></th>
-      <th><img src="./leetcode-badges/2023-10.gif" width="70" height="70 alt="October"></th>
-      <th><img src="./leetcode-badges/2023-09.gif" width="70" height="70 alt="September"></th>
-      <th><img src="./leetcode-badges/2023-08.gif" width="70" height="70 alt="August"></th>
+      <th><img src="./leetcode-badges/2023-12.gif" width="70" height="70" alt="December"></th>
+      <th><img src="./leetcode-badges/2023-11.gif" width="70" height="70" alt="November"></th>
+      <th><img src="./leetcode-badges/2023-10.gif" width="70" height="70" alt="October"></th>
+      <th><img src="./leetcode-badges/2023-09.gif" width="70" height="70" alt="September"></th>
+      <th><img src="./leetcode-badges/2023-08.gif" width="70" height="70" alt="August"></th>
     </tr>
     <tr>
       <td>December 2023</td>
@@ -291,7 +289,7 @@ Thanks for stopping by! 🚀
   <h3>Leetcode Annual Medals</h3>
   <table>
     <tr>
-      <th><img src="./leetcode-badges/365_new.gif" width="70" height="70 alt="365 Days"></th>
+      <th><img src="./leetcode-badges/365_new.gif" width="70" height="70" alt="365 Days"></th>
     </tr>
     <tr>
       <td>SUBMITTED CODE ON 365 OR MORE DAYS IN TOTAL</td>
@@ -300,9 +298,9 @@ Thanks for stopping by! 🚀
   
   <table>
     <tr>
-      <th><img src="./leetcode-badges/2024-200.gif" width="70" height="70 alt="200 Days"></th>
-      <th><img src="./leetcode-badges/2024-100-new.gif" width="70" height="70 alt="100 Days"></th>
-      <th><img src="./leetcode-badges/2024-50.gif" width="70" height="70 alt="50 Days"></th>
+      <th><img src="./leetcode-badges/2024-200.gif" width="70" height="70" alt="200 Days"></th>
+      <th><img src="./leetcode-badges/2024-100-new.gif" width="70" height="70" alt="100 Days"></th>
+      <th><img src="./leetcode-badges/2024-50.gif" width="70" height="70" alt="50 Days"></th>
     </tr>
     <tr>
       <td>200 Days Badge</td>
@@ -318,8 +316,8 @@ Thanks for stopping by! 🚀
   
   <table>
     <tr>
-      <th><img src="./leetcode-badges/2023-100.gif" width="70" height="70 alt="100 Days"></th>
-      <th><img src="./leetcode-badges/2023-50.gif" width="70" height="70 alt="50 Days"></th>
+      <th><img src="./leetcode-badges/2023-100.gif" width="70" height="70" alt="100 Days"></th>
+      <th><img src="./leetcode-badges/2023-50.gif" width="70" height="70" alt="50 Days"></th>
     </tr>
     <tr>
       <td>100 Days Badge</td>
