@@ -108,7 +108,7 @@ Check out some of my work:
 | **CIDECODE Cyber Hackathon** — Karnataka Police CID × PES University (2025) | NoFakeAI (deepfake detection system)                         | Team Lead | **6th / 341 teams** Top 40 nationally |
 | **TexPedition Hackathon** — Epsilon x Hack2Skill (2025)                     | AdComply (Advertisement Compliance system)                   | Team Lead | Finalist                              |
 | Smart India Hackathon — Ministry of Education (2025)                        | FixMyNagara (Civic Issue Reporting and Resolution System)    | Team Lead | Selected                              |
-| **Tata Elxsi TELIPORT Season 3**                                            | Mentored Team **"Code Bunnies"**                             | Mentor    | Mentored a team                       |
+| **Tata Elxsi TELIPORT Season 3**                                            | Shipbox (Prompt-to-Package sandbox that turns prompts into a tested, dockerized zip)  | Mentor    | Mentored Team **"Code Bunnies"** |
 
 
 <h2>Education</h2>
