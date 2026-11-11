@@ -108,11 +108,11 @@ Check out some of my work:
 | **CIDECODE Cyber Hackathon** — Karnataka Police CID × PES University (2025) | NoFakeAI (deepfake detection system)                         | Team Lead | **6th / 341 teams** Top 40 nationally |
 | **TexPedition Hackathon** — Epsilon x Hack2Skill (2025)                     | AdComply (Advertisement Compliance system)                   | Team Lead | Finalist                              |
 | Smart India Hackathon — Ministry of Education (2025)                        | FixMyNagara (Civic Issue Reporting and Resolution System)    | Team Lead | Selected                              |
-| **Tata Elxsi TELIPORT Season 3**                                            | Shipbox (Prompt-to-Package sandbox that turns prompts into a tested, dockerized zip)  | Mentor    | Mentored Team **"Code Bunnies"** |
+| **Tata Elxsi TELIPORT Season 3**                                            | DoxShip (Prompt-to-Package sandbox that turns prompts into a tested, dockerized zip)  | Mentor    | Mentored Team **"Code Bunnies"** |
 
 
 <h2>Education</h2>
-<h3>M.Tech - PES University (2024 - 2026)</h3>
+<h3>MTech - PES University (2024 - 2026)</h3>
 
 - Computer Science Engineering (Machine Intelligence - Machine Learning + Artificial Intelligence)
 - **Prof. CNR Rao Scholar**
@@ -123,7 +123,7 @@ Check out some of my work:
 - Attended Guidewire DEVSummit 2025, and worked as Invigilation Teaching Assistant
 
 
-<h3>B.Tech - Presidency University (2019 - 2023)</h3>
+<h3>BTech - Presidency University (2019 - 2023)</h3>
 
 - Computer Engineering (Data Science)
 - CGPA (10 points): **9.19 (87.30 %)**
